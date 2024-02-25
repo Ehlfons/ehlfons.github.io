@@ -1,4 +1,4 @@
-# IamSadB01
+# Ehlfons
 
 Este es el repositorio para mi página personal.
 
@@ -8,7 +8,7 @@ En este repositorio, encontrarás el código fuente y los recursos utilizados pa
 
 ## Uso
 
-Puedes visitar mi página personal en [iamsadb01.github.io](https://iamsadb01.github.io) (algún día la haré bien).
+Puedes visitar mi página personal en [ehlfons.github.io](https://ehlfons.github.io) (algún día la haré bien).
 
 ## Contacto
 
