@@ -4,7 +4,7 @@
   --font-color: #f3f4f9;
   --bg-color: #121212;
 
-  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  font-family: 'Helvetica Now Display', Helvetica, Arial, sans-serif;
   line-height: 1.5;
   font-weight: 400;
   font-size: clamp(1.5rem, 2vw + 1rem, 2.25rem);
@@ -15,4 +15,45 @@
   text-rendering: optimizelegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  box-sizing: border-box;
+  overflow: hidden;
+  max-height: 100vh;
+}	
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: var(--bg-color);
+  width: 30%;
+  z-index: 1000;
+}
+
+.ehlfons-logo {
+  width: 108px;
+  height: 108px;
+}
+
+h1 {
+  font-weight: 400 !important;
+  text-transform: uppercase;
+}
+
+main {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-inline: auto;
+}
+
+div.main-text {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-size: 1.5rem;
 }
