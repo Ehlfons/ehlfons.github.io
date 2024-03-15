@@ -4,7 +4,7 @@ Welcome to my GitHub Page! Here you'll find information about me and my social n
 
 You can visit my personal page at [ehlfons.github.io](https://ehlfons.github.io) 🌐 for more details about me and my activities.
 
-### Social
+### Socials
 
 [![Discord](https://img.shields.io/badge/Discord-%23768bd3?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/510027815694106635)
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%230d78b0?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sergio-alfonso-deltell)
