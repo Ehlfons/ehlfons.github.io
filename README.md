@@ -1,6 +1,6 @@
 ### ¡Hola! 👋
 
-¡Bienvenido a mi GitHub Page! Aquí encontrarás información sobre mí y mis proyectos.
+¡Bienvenido a mi GitHub Page! Aquí encontrarás información sobre mí y mis redes sociales.
 
 Puedes visitar mi página personal en [ehlfons.github.io](https://ehlfons.github.io) 🌐 para obtener más detalles sobre mí y mis actividades.
 
