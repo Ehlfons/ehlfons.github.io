@@ -1,20 +1,21 @@
-### ¡Hola! 👋
+### Hello! 👋
 
-¡Bienvenido a mi GitHub Page! Aquí encontrarás información sobre mí y mis redes sociales.
+Welcome to my GitHub Page! Here you'll find information about me and my social networks.
 
-Puedes visitar mi página personal en [ehlfons.github.io](https://ehlfons.github.io) 🌐 para obtener más detalles sobre mí y mis actividades.
+You can visit my personal page at [ehlfons.github.io](https://ehlfons.github.io) 🌐 for more details about me and my activities.
 
-### Redes Sociales
+### Social Networks
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ehlfons.designs/)
+[![Discord](https://img.shields.io/badge/Discord-%23768bd3?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/510027815694106635)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-%230d78b0?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sergio-alfonso-deltell)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ehlfons.designs)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ehlfonsdesigns)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sergio-alfonso-deltell/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ehlfons)
+[![Github Site](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://ehlfons.github.io)
 
-### Contacto
+### Contact
 
-Si tienes alguna pregunta, sugerencia o simplemente deseas ponerte en contacto conmigo, puedes hacerlo a través de mi correo electrónico: [sergiolfns01@gmail.com](mailto:sergiolfns01@gmail.com) 📧
+If you have any questions, suggestions, or simply want to get in touch with me, you can do so via email: [sergiolfns01@gmail.com](mailto:sergiolfns01@gmail.com) 📧
 
-### ¡Gracias por visitar mi página!
+### Thank you for visiting my page!
 
-Espero que encuentres algo interesante por aquí. 😊
+I hope you find something interesting here. 😊
