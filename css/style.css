@@ -76,6 +76,15 @@ div.main-text {
   width: 70%;
 }
 
+.company-link {
+  color: #ffadff;
+  text-decoration: none;
+}
+
+.company-link::focus {
+  color: #5c416e;
+}
+
 /*** Social Cards ***/
 
 .main-social {
