@@ -81,7 +81,7 @@ div.main-text {
   text-decoration: none;
 }
 
-.company-link::focus {
+.company-link:focus {
   color: #5c416e;
 }
 
